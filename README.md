@@ -1,2 +1,2 @@
-# sanaz_photography
+# Shanaz_photography
 A personal website for sahan
