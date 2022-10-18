@@ -55,8 +55,5 @@
         grid-column: span 1;
     }
 
-    .big-stretch {
-        grid-row: span 1;
-        grid-column: span 1;
-    }
+
 }
