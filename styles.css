@@ -54,6 +54,9 @@
     .h-stretch {
         grid-column: span 1;
     }
-
+    .big-stretch {
+         grid-column: span 1;
+         grid-column: span 1;
+    }
 
 }
